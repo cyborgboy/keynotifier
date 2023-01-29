@@ -1,2 +1,3 @@
-# Project-Ideas
-This repository contains list of project that i planned to build 
+#Keynotifier
+A burp extension that lookout for secrets, keys, PII data, api keys, aws, azure keys, etc.
+
